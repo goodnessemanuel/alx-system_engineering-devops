@@ -1,1 +1,1 @@
-Bye bye Betty
+goodbye my dear dir
