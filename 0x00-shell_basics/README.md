@@ -1,1 +1,1 @@
-To home directory
+Display long format
