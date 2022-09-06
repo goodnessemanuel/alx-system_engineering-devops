@@ -1,1 +1,1 @@
-pathway
+paths
